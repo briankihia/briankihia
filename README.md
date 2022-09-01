@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning website development
 - 💞️ I’m looking to collaborate on doing freelance jobs
-- 📫 How to reach me rianjohnkiama@gmail.com
+- 📫 How to reach me brianjohnkiama@gmail.com
 
 <!---
 briankihia/briankihia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
