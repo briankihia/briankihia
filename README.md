@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briankihia
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning website development
+- 🌱 I’m currently learning website development using django framework
 - 💞️ I’m looking to collaborate on doing freelance jobs
 - 📫 How to reach me brianjohnkiama@gmail.com
 
