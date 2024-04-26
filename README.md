@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briankihia
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning website development using django framework
+- 👀 I’m a backend developer really interested in coding
+- 🌱 I’m currently using django,pyqt,springBoot to make cool backend for softwares
 - 💞️ I’m looking to collaborate on doing freelance jobs
 - 📫 How to reach me brianjohnkiama@gmail.com
 
